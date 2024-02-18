@@ -1,2 +1,6 @@
 Login Details for admin : admin/Test@123
 Login Details for user: anuj@gmail.com/Test@123
+ADMIN LOGIN DETAILS :
+
+username : admin
+password : admin
