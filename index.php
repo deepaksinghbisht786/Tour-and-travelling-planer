@@ -218,9 +218,9 @@ while($data=mysqli_fetch_array($result))
 
 
 	<div class="col-md-3 image-grid">
-					 <img src="Admin/addverimages/CODEPROJECTS.jpg" width="300px" height="150px" >
+					 <img src="" width="300px" height="150px" >
 
-					 <p><a href="https://code-projects.org/">Brought To You By Code-Projects</a></p>
+					 <p>by deepak</p>
 				 </div>
 				<?php if($n%4==3)
 				{?>
@@ -250,8 +250,8 @@ Our travel experts can help you book now!</h4>
 						<h4 style="color:#09F">ABCD Enterprises</h4>
 						<p style="color:#000">NEED HELP BOOKING PACKAGE<br/>
                         For fantastic suggestions you may also call our travel expert</p>
-						<h5 style="color:#000"><span class="img1"></span>(+91) 9876543210&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;9874561230</h5>
-						<h5 style="color:#000"><span class="img2"></span><a href="#">www.code-projects.org&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;www.code-projects.org</a></h5>
+						<h5 style="color:#000"><span class="img1"></span>(+91) 123456678&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;123456789</h5>
+						<h5 style="color:#000"><span class="img2"></span><a href="#">www.deepak.com&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;www.deepak.com</a></h5>
 						<h5 style="color:#000"><span class="img3"></span>YOUR LOCATION</h5>
                         <br/>
                        <img src="images/contac.jpg" />
