@@ -218,7 +218,8 @@ while($data=mysqli_fetch_array($result))
 
 
 	<div class="col-md-3 image-grid">
-					 <img src="" width="300px" height="150px" >
+					 <img src="deepak.jpeg" width="300px" height="150px" >
+					 
 
 					 <p>by deepak</p>
 				 </div>
