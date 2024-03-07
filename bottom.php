@@ -3,14 +3,14 @@
 		 <div class="fotter-grids">
 			 <div class="col-md-4 fotter-left">
 			 <img src="images/logo2.png" alt="">
-			 <p style="text-align:justify">THIS PROJECT IS BROUGHT TO YOU BY CODE-PROJECTS. VISIT CODE-PROJECTS FOR MORE PROJECTS, TUTORIALS AND MORE. . LOG ON TO : www.code-projects.org </p>
+			 <p style="text-align:justify">THIS PROJECT IS BROUGHT TO YOU BY DEEPAK</p>
 			 </div>
 			 <div class="col-md-4 fotter-middle">
 				 <h3>Questions About Our Tours?</h3>
 				 <div class="footer-list">
 						<ul>
                         <li style="text-align:justify"><a href="#"><span></span>
-Our Customer Service Department is always happy to answer any questions you might have. Please visit our Contact Page to contact us or call us at 9779730479.</a></li></ul> </div>
+Our Customer Service Department is always happy to answer any questions you might have. Please visit our Contact Page to contact us or call us at 123456789.</a></li></ul> </div>
 						<h3>why makemytrip?</h3>
                         <div class="footer-list">
                         <ul>
@@ -45,7 +45,7 @@ Our Customer Service Department is always happy to answer any questions you migh
 </div>
 </div>
 <div class="copyright text-right">
-<p style="padding-right:100px">BROUGHT TO YOU BY : CODE-PROJECTS</p>
+<p style="padding-right:100px">BROUGHT TO YOU BY : DEEPAK</p>
 </div>
   <script src="js/jquery.scrollTo.js"></script>
 	<script src="js/jquery.nav.js"></script>
